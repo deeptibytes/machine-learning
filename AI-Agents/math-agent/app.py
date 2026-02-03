@@ -14,7 +14,7 @@ load_dotenv()
 
 groq_api_key=os.getenv("GROQ_API_KEY")
 
-## Set upi the Stramlit app
+## Set up the Stramlit app
 st.set_page_config(page_title="Text To Math Problem Solver And Data Serach Assistant",page_icon="🧮")
 st.title("Text To Math Problem Solver Uing Google Gemma 2")
 
