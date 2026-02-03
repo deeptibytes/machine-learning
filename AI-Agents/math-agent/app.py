@@ -9,7 +9,7 @@ from langchain.callbacks import StreamlitCallbackHandler
 from dotenv import load_dotenv
 import os
 
-## Load environment variables
+## Load environment variable
 load_dotenv()
 
 groq_api_key=os.getenv("GROQ_API_KEY")

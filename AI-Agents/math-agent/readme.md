@@ -128,7 +128,7 @@ assistant_agent = initialize_agent(
 - Sets maximum 10 iterations to prevent infinite loops
 - Enables verbose output and error handling
 
-## What is ZERO_SHOT_REACT_DESCRIPTION?
+## What is ZERO_SHOT_REACT_DESCRIPTION
 
 `ZERO_SHOT_REACT_DESCRIPTION` is one of LangChain's agent types that enables **zero-shot reasoning** with tool usage. Here's what it means:
 
